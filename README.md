@@ -52,9 +52,9 @@ The script generates a text-based scan report:
 scan_report.txt
 
 The report contains:
-1.Scan timestamp
-2.Target IP and hostname
-3.Host state (up/down)
-4.Open ports and protocols
-5.Detected services and versions
-6.Nmap command executed
+- Scan timestamp 
+- Target IP and hostname
+- Host state (up/down)
+- Open ports and protocols
+- Detected services and versions
+- Nmap command executed
