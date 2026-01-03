@@ -58,3 +58,9 @@ The report contains:
 - Open ports and protocols
 - Detected services and versions
 - Nmap command executed
+
+
+## ⚠️ Disclaimer
+This project is for educational purposes only.
+Only scan systems you own or have explicit permission to test.
+Unauthorized network scanning is illegal and unethical.
