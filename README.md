@@ -21,11 +21,25 @@ assessment fundamentals**, and **Python automation** skills.
 ## ⚙️ Features
 - Automated SYN scan (`-sS`)
 - Service & version detection (`-sV`)
+- Verbose scan execution
 - Text-based report generation
-- Basic error handling
+- Error handling and logging
 
 ---
 
+## 🚀 Installation
+
+### 1️⃣ Install Nmap
+```bash
+sudo apt update
+sudo apt install nmap
+```
+### 2️⃣ Install Python dependencies
+```bash
+pip install -r requirements.txt
+
+
+```
 ## ▶️ Usage
 ```bash
 sudo python3 nmap_automation.py <target_ip>
