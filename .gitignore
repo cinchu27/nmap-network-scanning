@@ -1,0 +1,4 @@
+__pycache__/
+venv/
+nmap_project_env/
+scan_report.txt
