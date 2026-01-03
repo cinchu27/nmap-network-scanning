@@ -43,3 +43,18 @@ pip install -r requirements.txt
 ## ▶️ Usage
 ```bash
 sudo python3 nmap_automation.py <target_ip>
+```
+
+
+##📄 Output
+
+The script generates a text-based scan report:
+scan_report.txt
+
+The report contains:
+1.Scan timestamp
+2.Target IP and hostname
+3.Host state (up/down)
+4.Open ports and protocols
+5.Detected services and versions
+6.Nmap command executed
